@@ -10,3 +10,11 @@ This repo contains a minimal full-stack shopping cart app that satisfies the ass
 2. Frontend: cd frontend && npm install && npm run dev
 
 Open http://localhost:5173 and test the flows.
+
+
+## 🖼️ Screenshot
+
+![App Screenshot](./assets/ss-1.png)
+![App Screenshot](./assets/ss-2.png)
+![App Screenshot](./assets/ss-3.png)
+![App Screenshot](./assets/ss-4.png)
